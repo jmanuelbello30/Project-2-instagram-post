@@ -1,19 +1,94 @@
-.posthead{
-  
+body{
+  background:#1e1e1f;
+}
+
+.BigBox{
+  background: black;
+  padding: 50px;
+  margin: 100px 400px 100px 400px;
+}
+
+.principal-title{
+  margin: auto;
+  background: white;
+  height: 45px;
+  width: 500px;
+  padding: 15px;
+}
+
+.icon-option{
+  height: 55px;
+  float: right;
+  font-size: 30px;
+  padding: 4px;
+}
+
+.icon-title{
+  width: 35px;
+  height: 55px;
+  float: left;
+  font-size: 40px;
 }
 
 .title-post{
-  
+  font-family: 'Roboto', sans-serif;
+  margin: 3px;
+  float: left;
+  width: 150px;
+  font-size: 15px;
 }
 
-.inlineBlock{
-  margin: 0px 350px 0px 350px;
-  display: inline-block;
-  border: 2px solid blue;
-   
+.user-post{
+  font-family: 'Roboto', sans-serif;
+  float: left;
+  font-size: 13px;
+  width: 305px;
+  margin: auto;
 }
 
 .floatIcone{
+  float: right; 
+  width: 500px;
+}
+
+.image-post{
+  margin: auto;
+  background-image: url("http://correiodevenezuela.com/espanol/wp-content/uploads/2016/02/losroques794.jpg");
+  background-repeat: round;
+  height: 340px;
+  width: 500px;
+  padding: 15px;
+}
+
+.postbody{
+  margin: auto;
+  background: white;
+  width: 500px;
+  padding: 15px;
+  font-size: 30px;
+}
+
+.icon-bookmark{
   float: right;
-  display: inline-block;
+}
+
+.publication{
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  background: white;
+  width: 500px;
+  padding: 6px;
+  font-size: 17px;
+  margin-top: -5px;
+}
+
+.postfooter{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: justify;
+  margin-top: -25px;
+  background: white;
+  height: 100px;
+  width: 485px;
+  padding: 6px;
 }
