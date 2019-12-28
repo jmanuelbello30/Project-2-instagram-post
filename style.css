@@ -76,7 +76,7 @@ body{
   font-family: 'Roboto', sans-serif;
   margin: auto;
   background: white;
-  width: 500px;
+  width: 518px;
   padding: 6px;
   font-size: 17px;
   margin-top: -5px;
@@ -85,10 +85,11 @@ body{
 .postfooter{
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  text-align: justify;
-  margin-top: -25px;
+  margin: auto;
   background: white;
-  height: 100px;
-  width: 485px;
+  width: 518px;
   padding: 6px;
+  margin-top: -5px;
+  padding-bottom: 20px;
+
 }
